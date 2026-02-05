@@ -27,6 +27,11 @@ To address these challenges, we propose a **hybrid retrieval framework** that co
 The framework is evaluated under both **in-domain** and **cross-domain** settings using publicly available ultrasound datasets.
 
 ---
+<p align="center">
+  <img src="figures/flow.png" width="700"/>
+  <br>
+  <em>Overall workflow of the proposed ultrasound image retrieval framework.</em>
+</p>
 
 ## 🧠 Methodology
 
@@ -55,10 +60,10 @@ The framework is evaluated under both **in-domain** and **cross-domain** setting
 - Evaluation reported using **Precision@5, Recall@5, mAP@5, MAR@5, and AUC**
 
 ---
-## Retrieval Results
-
 <p align="center">
-  <img src="Results/retrieval_results.png" width="600"/>
+  <img src="figures/architecture.png" width="700"/>
+  <br>
+  <em>Detailed architecture.</em>
 </p>
 
 
@@ -72,11 +77,13 @@ The framework is evaluated using the following datasets:
 
 ### Cross-domain Testing
 - **BUS-UCLM Breast Ultrasound Dataset**
+## Retrieval Results
+
+<p align="center">
+  <img src="Results/retrieval_results.png" width="600"/>
+</p>
 
 
-> ⚠️ To avoid information leakage, strict query–gallery splits are applied during evaluation.
-
----
 
 ## ⚙️ Installation
 
