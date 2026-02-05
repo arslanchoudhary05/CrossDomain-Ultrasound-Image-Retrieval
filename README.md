@@ -55,6 +55,12 @@ The framework is evaluated under both **in-domain** and **cross-domain** setting
 - Evaluation reported using **Precision@5, Recall@5, mAP@5, MAR@5, and AUC**
 
 ---
+## Retrieval Results
+
+<p align="center">
+  <img src="results/retrieval_results.png" width="600"/>
+</p>
+
 
 ## 📊 Datasets
 
