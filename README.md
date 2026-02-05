@@ -58,7 +58,7 @@ The framework is evaluated under both **in-domain** and **cross-domain** setting
 ## Retrieval Results
 
 <p align="center">
-  <img src="results/retrieval_results.png" width="600"/>
+  <img src="Results/retrieval_results.png" width="600"/>
 </p>
 
 
